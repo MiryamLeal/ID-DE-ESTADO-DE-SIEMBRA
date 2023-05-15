@@ -1,2 +1,2 @@
-# Modelación del estatus de actividad agrícola y generación de estadísticas agrícolas
-Proyecto de ciencia de datos y percepción remota que utiliza imágenes satelitales para analizar el estatus de actividad agrícola y generar estadísticas agrícolas automatizadas.
+# Modelación del estatus de actividad agrícola
+Este proyecto es el resultado del curso de Data Science de Coder House y es mi proyecto final para obtener el certificado. El objetivo del proyecto fue analizar imágenes satelitales y utilizar técnicas de modelado para predecir la actividad agrícola en una región determinada. Se utilizó una combinación de técnicas de análisis exploratorio de datos, feature engineering, modelado con árboles de decisión y redes neuronales, y optimización de hiperparámetros para mejorar el rendimiento del modelo. El proyecto proporciona un ejemplo práctico de cómo se pueden aplicar técnicas de ciencia de datos para resolver un problema del mundo real.
